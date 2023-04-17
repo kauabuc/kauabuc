@@ -19,6 +19,7 @@
 
 
 
+<div align="center">
 
   <a href="https://instagram.com/kauabuchweitz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:kakabuchweitz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -26,6 +27,4 @@
   
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauabuc&layout=compact&theme=dracula)](https://github.com/kauabuc/github-readme-stats)
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauabuc&show_icons=true&theme=dracula)
+
