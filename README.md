@@ -4,10 +4,6 @@
 
 <p align="center">Eu ❤️ resolver problemas usando dados. <br><br> Da análise de dados, eu <strong>busco resolver novos problemas </strong> e usar minha criatividade para gerar insights.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-  <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauabuc&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
- </div>
-
 
 
 
